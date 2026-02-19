@@ -2,7 +2,7 @@ import streamlit as st
 import urllib.parse
 
 # ========== الإعدادات ==========
-GITHUB_USER = "RihabJenzeri"
+GITHUB_USER = "ines-harrabi"  # Au lieu de "RihabJenzeri"
 REPO_NAME = "streamlit-docs"
 BASE_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{REPO_NAME}/main/"
 
