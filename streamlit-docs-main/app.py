@@ -1,7 +1,6 @@
 import streamlit as st
 import urllib.parse
 
-
 # ========== الإعدادات ==========
 GITHUB_USER = "RihabJenzeri"
 REPO_NAME = "streamlit-docs"
